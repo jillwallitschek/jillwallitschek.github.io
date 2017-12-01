@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Jill Wallitschek> -- <Student>
+
+# THANKS
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+https://html5boilerplate.com/
+https://jqueryvalidation.org/Validator.form/
+jquery
+Flickr 404 image:
+https://www.flickr.com/photos/35764278@N05/3311891224/in/photolist-63EiSQ-8A3htc-Tp6nDS-kTLiV-hwTpWT-fgnr2-8sWxTY-2vpZfo-fgnpj-ZMG2c4-5gg796-4j8meK-5exxD6-onJGa-BhVtDE-48n3iY-3gTuGh-5CUXcE-rw5VR-ejG363-5jSUFt-kTJdt-6p5Xmn-3uGje-e6Zw96-9Y8pww-5EYNsZ-aggqZ-9dtT6j-GFJZZk-oFg73-q7j4qc-f69c7K-5exvLk-5dcivP-W4R6Yt-5CbDNe-KSEPr-ppVAKv-c4wP8-6c37X1-95cM2x-oQE43b-GVqwM-oQDUDX-5dNCgU-5t2kXp-2LxN1-CSFjzN-dqE5o
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
