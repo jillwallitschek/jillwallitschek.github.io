@@ -9,7 +9,8 @@ $(document).ready(function(){
             },
             "last":{
                 required: true,
-            }},
+            }}
+            
         messages:{
             "email":{
                 required: "Please enter your email."
